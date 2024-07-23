@@ -2,8 +2,7 @@
 <h2 align="center">👨‍💻 Just coding for creating cool stuff 🚀
  </h2>
 
-<h3>Visit my portfolio 👉 (https://port-folio-flame-seven.vercel.app/)
-</h3>
+![Vist My portfolio](https://port-folio-flame-seven.vercel.app/)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyam-28&label=Profile%20views&color=0e75b6&style=flat" alt="priyam-28" /> </p>
 
