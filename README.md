@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Priyam </h1>
-<h2 align="center">👨‍💻 Just coding for creating cool stuff 🚀
- </h2>
+<h3 align="center">👨‍💻 Just coding for creating cool stuff 🚀
+ </h3>
 
  ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Priyam-28&theme=radical&no-frame=false&no-bg=false&margin-w=4)
@@ -19,6 +19,14 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Priyam-28&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyam-28&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## <img src="https://cdn3.emoji.gg/emojis/9230-stats.png" width="28px" height="28px" alt="Stats"> Github Summary
+<div align="center">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Priyam-28&theme=radical" alt="stats" />
+</div>
+
+<div align="center" style="margin-top:20px;">
+  <img  width="700" style="margin-top:20px;" src="https://github-readme-activity-graph.vercel.app/graph?username=Priyam-28&theme=synthwave-84&true&hide_border=true" />
+</div>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
