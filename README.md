@@ -2,13 +2,12 @@
 <h3 align="center">👨‍💻 Just coding for creating cool stuff 🚀
  </h3>
 
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyam-28&label=Profile%20views&color=0e75b6&style=flat" alt="priyam-28" /> </p>
+
  ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Priyam-28&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 - 👨‍💻My Portfolio [Portfolio](https://port-folio-flame-seven.vercel.app/)
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=priyam-28&label=Profile%20views&color=0e75b6&style=flat" alt="priyam-28" /> </p>
 
 
 # 💻 Tech Stack:
